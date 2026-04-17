@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1180" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+
+  <!-- Background -->
+
+  <rect width="1900" height="1180" fill="#F7F7F4"/>
+
+  <!-- Title block -->
+
+<text x="60" y="42" font-size="22" font-weight="600" fill="#1A1A2E">Presuppositional Christian Logic-Realist (PCLR) Harness — Capability Viewpoint (UAF Cv-2)</text>
+<text x="60" y="64" font-size="13" fill="#5A5A6E">Capability Taxonomy | Ologosophical Reasoning Discipline | v1.0</text>
+<text x="60" y="84" font-size="11" fill="#5A5A6E" font-style="italic">Founding Essence: Logos as ontic ground of rationality, apprehended through the wisdom tradition</text>
+<line x1="60" y1="96" x2="1840" y2="96" stroke="#C8C8D0" stroke-width="1"/>
+
+  <!-- Legend -->
+
+  <g transform="translate(1480, 20)">
+    <rect x="0" y="0" width="360" height="64" fill="#FFFFFF" stroke="#C8C8D0" stroke-width="1" rx="2"/>
+    <rect x="10" y="10" width="14" height="10" fill="#1A1A2E"/>
+    <text x="30" y="19" font-size="10" fill="#333">Strategic Capability</text>
+    <rect x="140" y="10" width="14" height="10" fill="#5A3A7E"/>
+    <text x="160" y="19" font-size="10" fill="#333">Ontological Trunk</text>
+    <rect x="265" y="10" width="14" height="10" fill="#3D3D7E"/>
+    <text x="285" y="19" font-size="10" fill="#333">L1 Capability</text>
+    <rect x="10" y="30" width="14" height="10" fill="#8888B5"/>
+    <text x="30" y="39" font-size="10" fill="#333">L2 Sub-capability</text>
+    <rect x="140" y="30" width="14" height="10" fill="#4A3C5E"/>
+    <text x="160" y="39" font-size="10" fill="#333">Governance (meta)</text>
+    <line x1="10" y1="52" x2="24" y2="52" stroke="#888" stroke-width="1.2"/>
+    <text x="30" y="55" font-size="10" fill="#333">«composedOf»</text>
+    <line x1="140" y1="52" x2="154" y2="52" stroke="#4A3C5E" stroke-width="1.2" stroke-dasharray="3,3"/>
+    <text x="160" y="55" font-size="10" fill="#333">«governs»</text>
+  </g>
+
+  <!-- =========================================================
+       LAYER 1: CONNECTORS (drawn first, blocks paint over)
+       ========================================================= -->
+
+  <g stroke="#888" stroke-width="1.2" fill="none">
+    <!-- Strategic root to Ontology -->
+    <line x1="850" y1="202" x2="850" y2="240"/>
+
+```
+<!-- Ontology to trunk sub-caps (upper distribution bar) -->
+<line x1="850" y1="332" x2="850" y2="368"/>
+<line x1="400" y1="368" x2="1150" y2="368"/>
+<line x1="400" y1="368" x2="400" y2="400"/>
+<line x1="650" y1="368" x2="650" y2="400"/>
+<line x1="900" y1="368" x2="900" y2="400"/>
+<line x1="1150" y1="368" x2="1150" y2="400"/>
+
+<!-- Ontology trunk to L1 branches (lower distribution bar) -->
+<line x1="850" y1="474" x2="850" y2="500"/>
+<line x1="150" y1="500" x2="1400" y2="500"/>
+<line x1="150" y1="500" x2="150" y2="520"/>
+<line x1="400" y1="500" x2="400" y2="520"/>
+<line x1="650" y1="500" x2="650" y2="520"/>
+<line x1="900" y1="500" x2="900" y2="520"/>
+<line x1="1150" y1="500" x2="1150" y2="520"/>
+<line x1="1400" y1="500" x2="1400" y2="520"/>
+
+<!-- L1 to L2 per column -->
+<line x1="150" y1="594" x2="150" y2="620"/>
+<line x1="150" y1="680" x2="150" y2="696"/>
+<line x1="150" y1="756" x2="150" y2="772"/>
+<line x1="150" y1="832" x2="150" y2="848"/>
+
+<line x1="400" y1="594" x2="400" y2="620"/>
+<line x1="400" y1="680" x2="400" y2="696"/>
+<line x1="400" y1="756" x2="400" y2="772"/>
+<line x1="400" y1="832" x2="400" y2="848"/>
+
+<line x1="650" y1="594" x2="650" y2="620"/>
+<line x1="650" y1="680" x2="650" y2="696"/>
+<line x1="650" y1="756" x2="650" y2="772"/>
+<line x1="650" y1="832" x2="650" y2="848"/>
+
+<line x1="900" y1="594" x2="900" y2="620"/>
+<line x1="900" y1="680" x2="900" y2="696"/>
+<line x1="900" y1="756" x2="900" y2="772"/>
+<line x1="900" y1="832" x2="900" y2="848"/>
+
+<line x1="1150" y1="594" x2="1150" y2="620"/>
+<line x1="1150" y1="680" x2="1150" y2="696"/>
+<line x1="1150" y1="756" x2="1150" y2="772"/>
+<line x1="1150" y1="832" x2="1150" y2="848"/>
+
+<line x1="1400" y1="594" x2="1400" y2="620"/>
+<line x1="1400" y1="680" x2="1400" y2="696"/>
+<line x1="1400" y1="756" x2="1400" y2="772"/>
+<line x1="1400" y1="832" x2="1400" y2="848"/>
+
+<!-- Governance column: its own L2 connectors -->
+<line x1="1650" y1="332" x2="1650" y2="620"/>
+<line x1="1650" y1="680" x2="1650" y2="696"/>
+<line x1="1650" y1="756" x2="1650" y2="772"/>
+<line x1="1650" y1="832" x2="1650" y2="848"/>
+```
+
+  </g>
+
+  <!-- Strategic root to Framework Governance (dashed) -->
+
+  <g stroke="#4A3C5E" stroke-width="1.4" fill="none" stroke-dasharray="5,4">
+    <path d="M 1000 160 L 1650 160 L 1650 240"/>
+  </g>
+
+  <!-- Governance «governs» sweep (dashed, subtle) -->
+
+  <g stroke="#4A3C5E" stroke-width="0.8" fill="none" stroke-dasharray="3,3" opacity="0.35">
+    <path d="M 1570 285 Q 1350 400 150 540"/>
+    <path d="M 1570 285 Q 1350 400 400 540"/>
+    <path d="M 1570 285 Q 1400 400 650 540"/>
+    <path d="M 1570 285 Q 1450 400 900 540"/>
+    <path d="M 1570 285 Q 1500 400 1150 540"/>
+    <path d="M 1570 285 Q 1530 430 1400 540"/>
+    <path d="M 1570 285 Q 1200 290 1000 286"/>
+  </g>
+
+  <!-- =========================================================
+       LAYER 2: STRATEGIC CAPABILITY
+       ========================================================= -->
+
+  <g>
+    <rect x="700" y="120" width="300" height="82" fill="#1A1A2E" stroke="#0A0A1A" stroke-width="1.5" rx="2"/>
+    <text x="850" y="142" font-size="10" text-anchor="middle" fill="#C8C8D0" font-style="italic">«StrategicCapability»</text>
+    <text x="850" y="166" font-size="15" font-weight="600" text-anchor="middle" fill="#FFFFFF">Ologosophical</text>
+    <text x="850" y="185" font-size="15" font-weight="600" text-anchor="middle" fill="#FFFFFF">Reasoning Discipline</text>
+  </g>
+
+  <!-- =========================================================
+       LAYER 3: ONTOLOGY TRUNK
+       ========================================================= -->
+
+  <g>
+    <rect x="700" y="240" width="300" height="92" fill="#5A3A7E" stroke="#3E2658" stroke-width="1.5" rx="2"/>
+    <text x="850" y="262" font-size="10" text-anchor="middle" fill="#DDD0E8" font-style="italic">«OntologicalGround»</text>
+    <text x="850" y="286" font-size="16" font-weight="600" text-anchor="middle" fill="#FFFFFF">Ontology</text>
+    <text x="850" y="308" font-size="11" text-anchor="middle" fill="#DDD0E8" font-style="italic">Logos as ontic ground</text>
+    <text x="850" y="323" font-size="11" text-anchor="middle" fill="#DDD0E8" font-style="italic">from which all branches derive</text>
+  </g>
+
+  <!-- =========================================================
+       LAYER 4: FRAMEWORK GOVERNANCE (meta-peer, right)
+       ========================================================= -->
+
+  <g>
+    <rect x="1550" y="240" width="200" height="92" fill="#4A3C5E" stroke="#322840" stroke-width="1.5" rx="2"/>
+    <text x="1650" y="262" font-size="10" text-anchor="middle" fill="#D8D0E2" font-style="italic">«MetaCapability»</text>
+    <text x="1650" y="286" font-size="14" font-weight="600" text-anchor="middle" fill="#FFFFFF">Framework</text>
+    <text x="1650" y="305" font-size="14" font-weight="600" text-anchor="middle" fill="#FFFFFF">Governance</text>
+    <text x="1650" y="322" font-size="10" text-anchor="middle" fill="#D8D0E2" font-style="italic">(governs all)</text>
+  </g>
+
+  <!-- =========================================================
+       LAYER 5: ONTOLOGY TRUNK SUB-CAPABILITIES
+       ========================================================= -->
+
+  <g>
+    <rect x="320" y="400" width="160" height="74" fill="#8E7AAA" stroke="#5A3A7E" stroke-width="1.2" rx="2"/>
+    <text x="400" y="420" font-size="9" text-anchor="middle" fill="#F0E8F8" font-style="italic">«Capability»</text>
+    <text x="400" y="442" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Ontological</text>
+    <text x="400" y="460" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Axioms</text>
+
+```
+<rect x="570" y="400" width="160" height="74" fill="#8E7AAA" stroke="#5A3A7E" stroke-width="1.2" rx="2"/>
+<text x="650" y="420" font-size="9" text-anchor="middle" fill="#F0E8F8" font-style="italic">«Capability»</text>
+<text x="650" y="442" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Categorical</text>
+<text x="650" y="460" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Structure</text>
+
+<rect x="820" y="400" width="160" height="74" fill="#8E7AAA" stroke="#5A3A7E" stroke-width="1.2" rx="2"/>
+<text x="900" y="420" font-size="9" text-anchor="middle" fill="#F0E8F8" font-style="italic">«Capability»</text>
+<text x="900" y="442" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Domain Ontology</text>
+<text x="900" y="460" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Mapping</text>
+
+<rect x="1070" y="400" width="160" height="74" fill="#8E7AAA" stroke="#5A3A7E" stroke-width="1.2" rx="2"/>
+<text x="1150" y="420" font-size="9" text-anchor="middle" fill="#F0E8F8" font-style="italic">«Capability»</text>
+<text x="1150" y="442" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Ontological Integrity</text>
+<text x="1150" y="460" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Monitoring</text>
+```
+
+  </g>
+
+  <!-- =========================================================
+       LAYER 6: Reasoning-structure grouping labels (y=512, above L1 blocks)
+       ========================================================= -->
+
+  <g>
+    <text x="150" y="512" font-size="10" text-anchor="middle" fill="#5A5A6E" font-style="italic">Gauge</text>
+    <text x="400" y="512" font-size="10" text-anchor="middle" fill="#5A5A6E" font-style="italic">Gauge</text>
+    <text x="650" y="512" font-size="10" text-anchor="middle" fill="#5A5A6E" font-style="italic">Grasp</text>
+    <text x="900" y="512" font-size="10" text-anchor="middle" fill="#5A5A6E" font-style="italic">Grasp</text>
+    <text x="1150" y="512" font-size="10" text-anchor="middle" fill="#5A5A6E" font-style="italic">Engage</text>
+    <text x="1400" y="512" font-size="10" text-anchor="middle" fill="#5A5A6E" font-style="italic">Gather</text>
+    <text x="1650" y="512" font-size="10" text-anchor="middle" fill="#5A5A6E" font-style="italic">Govern</text>
+  </g>
+
+  <!-- =========================================================
+       LAYER 7: L1 BRANCHES
+       ========================================================= -->
+
+  <g>
+    <rect x="60" y="520" width="180" height="74" fill="#3D3D7E" stroke="#2A2A5A" stroke-width="1.2" rx="2"/>
+    <text x="150" y="540" font-size="9" text-anchor="middle" fill="#C8C8E0" font-style="italic">«Capability»</text>
+    <text x="150" y="562" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Worldview</text>
+    <text x="150" y="580" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Filtration</text>
+  </g>
+
+  <g>
+    <rect x="310" y="520" width="180" height="74" fill="#8B1A2A" stroke="#5A111C" stroke-width="1.2" rx="2"/>
+    <text x="400" y="540" font-size="9" text-anchor="middle" fill="#F0C8CE" font-style="italic">«Capability»</text>
+    <text x="400" y="562" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Ethical</text>
+    <text x="400" y="580" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Reasoning</text>
+  </g>
+
+  <g>
+    <rect x="560" y="520" width="180" height="74" fill="#2E5F3E" stroke="#1F4328" stroke-width="1.2" rx="2"/>
+    <text x="650" y="540" font-size="9" text-anchor="middle" fill="#C8E0D0" font-style="italic">«Capability»</text>
+    <text x="650" y="562" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Epistemic</text>
+    <text x="650" y="580" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Integrity</text>
+  </g>
+
+  <g>
+    <rect x="810" y="520" width="180" height="74" fill="#6B2737" stroke="#4A1A26" stroke-width="1.2" rx="2"/>
+    <text x="900" y="540" font-size="9" text-anchor="middle" fill="#E8C8D0" font-style="italic">«Capability»</text>
+    <text x="900" y="562" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Logical</text>
+    <text x="900" y="580" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Verification</text>
+  </g>
+
+  <g>
+    <rect x="1060" y="520" width="180" height="74" fill="#8B4513" stroke="#62300D" stroke-width="1.2" rx="2"/>
+    <text x="1150" y="540" font-size="9" text-anchor="middle" fill="#E8D0C0" font-style="italic">«Capability»</text>
+    <text x="1150" y="562" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Dialectical</text>
+    <text x="1150" y="580" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Engagement</text>
+  </g>
+
+  <g>
+    <rect x="1310" y="520" width="180" height="74" fill="#2C5F6F" stroke="#1C434F" stroke-width="1.2" rx="2"/>
+    <text x="1400" y="540" font-size="9" text-anchor="middle" fill="#C8DCE2" font-style="italic">«Capability»</text>
+    <text x="1400" y="562" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Knowledge</text>
+    <text x="1400" y="580" font-size="13" font-weight="600" text-anchor="middle" fill="#FFFFFF">Curation</text>
+  </g>
+
+  <!-- =========================================================
+       LAYER 8: L2 SUB-CAPABILITIES
+       ========================================================= -->
+
+  <!-- Col 1: Worldview Filtration -->
+
+  <g>
+    <rect x="70" y="620" width="160" height="60" fill="#8888B5" stroke="#3D3D7E" stroke-width="1" rx="2"/>
+    <text x="150" y="642" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Worldview</text>
+    <text x="150" y="660" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Classification</text>
+
+```
+<rect x="70" y="696" width="160" height="60" fill="#8888B5" stroke="#3D3D7E" stroke-width="1" rx="2"/>
+<text x="150" y="718" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Presuppositional</text>
+<text x="150" y="736" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Analysis</text>
+
+<rect x="70" y="772" width="160" height="60" fill="#8888B5" stroke="#3D3D7E" stroke-width="1" rx="2"/>
+<text x="150" y="794" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Contextual</text>
+<text x="150" y="812" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Activation</text>
+
+<rect x="70" y="848" width="160" height="60" fill="#8888B5" stroke="#3D3D7E" stroke-width="1" rx="2"/>
+<text x="150" y="870" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Drift</text>
+<text x="150" y="888" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Detection</text>
+```
+
+  </g>
+
+  <!-- Col 2: Ethical Reasoning -->
+
+  <g>
+    <rect x="320" y="620" width="160" height="60" fill="#B8505E" stroke="#8B1A2A" stroke-width="1" rx="2"/>
+    <text x="400" y="642" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Moral Order</text>
+    <text x="400" y="660" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Application</text>
+
+```
+<rect x="320" y="696" width="160" height="60" fill="#B8505E" stroke="#8B1A2A" stroke-width="1" rx="2"/>
+<text x="400" y="718" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Biblical Ethical</text>
+<text x="400" y="736" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Framework</text>
+
+<rect x="320" y="772" width="160" height="60" fill="#B8505E" stroke="#8B1A2A" stroke-width="1" rx="2"/>
+<text x="400" y="794" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Ethical Consistency</text>
+<text x="400" y="812" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Auditing</text>
+
+<rect x="320" y="848" width="160" height="60" fill="#B8505E" stroke="#8B1A2A" stroke-width="1" rx="2"/>
+<text x="400" y="870" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Normative Claim</text>
+<text x="400" y="888" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Governance</text>
+```
+
+  </g>
+
+  <!-- Col 3: Epistemic Integrity -->
+
+  <g>
+    <rect x="570" y="620" width="160" height="60" fill="#6B9478" stroke="#2E5F3E" stroke-width="1" rx="2"/>
+    <text x="650" y="642" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Primary Source</text>
+    <text x="650" y="660" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Pursuit</text>
+
+```
+<rect x="570" y="696" width="160" height="60" fill="#6B9478" stroke="#2E5F3E" stroke-width="1" rx="2"/>
+<text x="650" y="718" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Citation</text>
+<text x="650" y="736" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Verification</text>
+
+<rect x="570" y="772" width="160" height="60" fill="#6B9478" stroke="#2E5F3E" stroke-width="1" rx="2"/>
+<text x="650" y="794" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Confidence</text>
+<text x="650" y="812" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Signaling</text>
+
+<rect x="570" y="848" width="160" height="60" fill="#6B9478" stroke="#2E5F3E" stroke-width="1" rx="2"/>
+<text x="650" y="870" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Uncertainty</text>
+<text x="650" y="888" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Acknowledgment</text>
+```
+
+  </g>
+
+  <!-- Col 4: Logical Verification -->
+
+  <g>
+    <rect x="820" y="620" width="160" height="60" fill="#A56275" stroke="#6B2737" stroke-width="1" rx="2"/>
+    <text x="900" y="642" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Consistency</text>
+    <text x="900" y="660" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Auditing</text>
+
+```
+<rect x="820" y="696" width="160" height="60" fill="#A56275" stroke="#6B2737" stroke-width="1" rx="2"/>
+<text x="900" y="718" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Reference</text>
+<text x="900" y="736" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Preservation</text>
+
+<rect x="820" y="772" width="160" height="60" fill="#A56275" stroke="#6B2737" stroke-width="1" rx="2"/>
+<text x="900" y="794" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Circularity</text>
+<text x="900" y="812" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Detection</text>
+
+<rect x="820" y="848" width="160" height="60" fill="#A56275" stroke="#6B2737" stroke-width="1" rx="2"/>
+<text x="900" y="870" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Formal Verification</text>
+<text x="900" y="888" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Integration</text>
+```
+
+  </g>
+
+  <!-- Col 5: Dialectical Engagement -->
+
+  <g>
+    <rect x="1070" y="620" width="160" height="60" fill="#B88258" stroke="#8B4513" stroke-width="1" rx="2"/>
+    <text x="1150" y="642" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Steelman</text>
+    <text x="1150" y="660" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Construction</text>
+
+```
+<rect x="1070" y="696" width="160" height="60" fill="#B88258" stroke="#8B4513" stroke-width="1" rx="2"/>
+<text x="1150" y="718" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Internal</text>
+<text x="1150" y="736" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Critique</text>
+
+<rect x="1070" y="772" width="160" height="60" fill="#B88258" stroke="#8B4513" stroke-width="1" rx="2"/>
+<text x="1150" y="794" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Presuppositional</text>
+<text x="1150" y="812" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Critique</text>
+
+<rect x="1070" y="848" width="160" height="60" fill="#B88258" stroke="#8B4513" stroke-width="1" rx="2"/>
+<text x="1150" y="870" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Framework</text>
+<text x="1150" y="888" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Presentation</text>
+```
+
+  </g>
+
+  <!-- Col 6: Knowledge Curation -->
+
+  <g>
+    <rect x="1320" y="620" width="160" height="60" fill="#6B96A2" stroke="#2C5F6F" stroke-width="1" rx="2"/>
+    <text x="1400" y="642" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Corpus</text>
+    <text x="1400" y="660" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Management</text>
+
+```
+<rect x="1320" y="696" width="160" height="60" fill="#6B96A2" stroke="#2C5F6F" stroke-width="1" rx="2"/>
+<text x="1400" y="718" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Source Tier</text>
+<text x="1400" y="736" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Classification</text>
+
+<rect x="1320" y="772" width="160" height="60" fill="#6B96A2" stroke="#2C5F6F" stroke-width="1" rx="2"/>
+<text x="1400" y="794" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Metadata</text>
+<text x="1400" y="812" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Preservation</text>
+
+<rect x="1320" y="848" width="160" height="60" fill="#6B96A2" stroke="#2C5F6F" stroke-width="1" rx="2"/>
+<text x="1400" y="870" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Hermeneutical</text>
+<text x="1400" y="888" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Guardrails</text>
+```
+
+  </g>
+
+  <!-- Col 7: Framework Governance -->
+
+  <g>
+    <rect x="1570" y="620" width="160" height="60" fill="#837597" stroke="#4A3C5E" stroke-width="1" rx="2"/>
+    <text x="1650" y="642" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Axiom</text>
+    <text x="1650" y="660" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Specification</text>
+
+```
+<rect x="1570" y="696" width="160" height="60" fill="#837597" stroke="#4A3C5E" stroke-width="1" rx="2"/>
+<text x="1650" y="718" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Commitment</text>
+<text x="1650" y="736" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Maintenance</text>
+
+<rect x="1570" y="772" width="160" height="60" fill="#837597" stroke="#4A3C5E" stroke-width="1" rx="2"/>
+<text x="1650" y="794" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Change</text>
+<text x="1650" y="812" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Control</text>
+
+<rect x="1570" y="848" width="160" height="60" fill="#837597" stroke="#4A3C5E" stroke-width="1" rx="2"/>
+<text x="1650" y="870" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Human</text>
+<text x="1650" y="888" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">Governance</text>
+```
+
+  </g>
+
+  <!-- =========================================================
+       LAYER 9: Strategic grounding footer
+       ========================================================= -->
+
+  <g>
+    <rect x="60" y="940" width="1780" height="110" fill="#FFFFFF" stroke="#C8C8D0" stroke-width="1" rx="2"/>
+    <text x="80" y="966" font-size="12" font-weight="600" fill="#1A1A2E">Strategic Grounding — Ologosophical Essence</text>
+    <line x1="80" y1="974" x2="290" y2="974" stroke="#5A3A7E" stroke-width="1.5"/>
+
+```
+<text x="80" y="996" font-size="10" fill="#333" font-style="italic">Founding Thesis:</text>
+<text x="210" y="996" font-size="10" fill="#333">All rational structure derives from a rational personal ground (Logos); reasoning ordered toward that ground coheres, reasoning that departs from it disintegrates.</text>
+
+<text x="80" y="1014" font-size="10" fill="#333" font-style="italic">Epistemic Authority:</text>
+<text x="210" y="1014" font-size="10" fill="#333">Scripture (ESV) as final court of appeal; primary sources privileged; ontic logical realism as structural commitment.</text>
+
+<text x="80" y="1032" font-size="10" fill="#333" font-style="italic">Methodological Stance:</text>
+<text x="210" y="1032" font-size="10" fill="#333">Presuppositional critique as default analytic move; 1 Thess 5:21 iterative hypothesis testing; ontology precedes epistemology precedes ethics.</text>
+```
+
+  </g>
+
+  <!-- =========================================================
+       LAYER 10: Structure of Faithful Reasoning legend
+       ========================================================= -->
+
+  <g>
+    <rect x="60" y="1070" width="1780" height="60" fill="#FFFFFF" stroke="#C8C8D0" stroke-width="1" rx="2"/>
+    <text x="80" y="1094" font-size="12" font-weight="600" fill="#1A1A2E">Structure of Faithful Reasoning</text>
+    <line x1="80" y1="1102" x2="290" y2="1102" stroke="#5A3A7E" stroke-width="1.5"/>
+
+```
+<text x="80" y="1118" font-size="10" fill="#333">
+  <tspan font-style="italic" font-weight="600">Ground</tspan> (what is): Ontology.
+  <tspan font-style="italic" font-weight="600"> Grasp</tspan> (how we know): Epistemic Integrity, Logical Verification.
+  <tspan font-style="italic" font-weight="600"> Gauge</tspan> (how we evaluate): Worldview Filtration, Ethical Reasoning.
+  <tspan font-style="italic" font-weight="600"> Engage</tspan> (how we contend): Dialectical Engagement.
+  <tspan font-style="italic" font-weight="600"> Gather</tspan> (how we preserve): Knowledge Curation.
+  <tspan font-style="italic" font-weight="600"> Govern</tspan> (meta, cross-cutting): Framework Governance.
+</text>
+```
+
+  </g>
+
+  <!-- Footer metadata -->
+
+  <g>
+    <line x1="60" y1="1148" x2="1840" y2="1148" stroke="#C8C8D0" stroke-width="1"/>
+    <text x="60" y="1168" font-size="10" fill="#5A5A6E">Viewpoint: UAF Cv-2 (Capability Taxonomy) | Ologosophical v1.0</text>
+    <text x="1840" y="1168" font-size="10" fill="#5A5A6E" text-anchor="end">Architect: J.D. Longmire | ORCID 0009-0009-1383-7698</text>
+  </g>
+
+</svg>

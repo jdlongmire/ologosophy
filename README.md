@@ -21,6 +21,7 @@ Six interrelated theses constitute the framework:
 
 1. **Core Thesis** (`papers/core-thesis/`) -- The founding paper establishing Ologosophy's six theses and triadic architecture
 2. **Christ as Logos** (`papers/christ-as-logos/`) -- Companion paper arguing the christological articulation is the most explanatorily adequate specification of the Logos ground, drawing on Catholic, Orthodox, and Reformed traditions
+3. **Ologosophical AI** (`papers/ologosophical-ai/`) -- Philosophy of artificial intelligence within the Ologosophical framework: derivative knowledge thesis, ontological alignment, Turing oracle identification, PCLR architecture, and reframed AI ethics
 
 ## Repository Structure
 
@@ -28,6 +29,7 @@ Six interrelated theses constitute the framework:
 papers/
   core-thesis/          Core founding paper (v5.0)
   christ-as-logos/      Companion paper: Christ as Logos (Paper 2)
+  ologosophical-ai/     Companion paper: Ologosophical AI (Paper 3)
 ```
 
 ## Related Work
