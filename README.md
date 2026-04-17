@@ -17,11 +17,17 @@ Six interrelated theses constitute the framework:
 5. **Person-Artifact Distinction** -- Persons participate in rational order categorically differently from artifacts
 6. **Wisdom as Ordered Grasp** -- Disciplined apprehension of the ontic order
 
+## Papers
+
+1. **Core Thesis** (`papers/core-thesis/`) -- The founding paper establishing Ologosophy's six theses and triadic architecture
+2. **Christ as Logos** (`papers/christ-as-logos/`) -- Companion paper arguing the christological articulation is the most explanatorily adequate specification of the Logos ground, drawing on Catholic, Orthodox, and Reformed traditions
+
 ## Repository Structure
 
 ```
 papers/
   core-thesis/          Core founding paper (v5.0)
+  christ-as-logos/      Companion paper: Christ as Logos (Paper 2)
 ```
 
 ## Related Work
